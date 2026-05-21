@@ -18,8 +18,8 @@ This project explores free deployment solutions for React applications.
 
 #### Vercel
 
-- **Dashboard:** [Vercel Dashboard](https://vercel.com/abhinavrai23s-projects/try-netlify-23)
-- **Website:** [https://try-netlify-23.vercel.app/](https://try-netlify-23.vercel.app/)
+- **Dashboard:** [Vercel Dashboard](https://vercel.com/abhinavrai23s-projects/abhinav-rai)
+- **Website:** [https://abhinav-rai.vercel.app](https://abhinav-rai.vercel.app/)
 
 #### Render
 
