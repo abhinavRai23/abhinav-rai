@@ -14,7 +14,7 @@ This project explores free deployment solutions for React applications.
 #### Cloudflare Pages
 
 - **Dashboard:** [Cloudflare Pages Dashboard](https://dash.cloudflare.com/7b67bb9a943e69ad5749370381fa0e5a/pages/view/abhinav-rai)
-- **Website:** [https://try-netlify.pages.dev](https://try-netlify.pages.dev)
+- **Website:** [https://abhinav-rai.pages.dev](https:abhinav-rai.pages.dev)
 
 #### Vercel
 
